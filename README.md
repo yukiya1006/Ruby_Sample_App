@@ -1,24 +1,40 @@
-# README
+# Trental(トレンタル)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### サイト概要
 
-Things you may want to cover:
+　登録されているトレーナーから、トレーニングや食事指導が受けることができるサイト。
 
-* Ruby version
+### サイトテーマ
 
-* System dependencies
+　トレーナーのレンタル。
 
-* Configuration
+### テーマを選んだ理由
 
-* Database creation
+　元々パーソナルトレーナーをしていた頃、もっと手軽に低価格でトレーニングや食事の指導を受けることができて、尚且つトレーナー側も時間の縛りなどがなくサービスを提供できるシステムがあればいいなという思いがありました。トレーニングを教わりたいと思ってもパーソナルは値段が高いため続けられず、入会してしまうとある程度決められた時間で定期的に通わなくてはいけません。それならトレーナーやトレーニング経験者が他の人からレンタルされるようなものを作ればトレーニングを受けたい人と教えたい人両方の融通が効くのではないかと考え、このテーマにしました。
 
-* Database initialization
+### ターゲットユーザ
+* パーソナル指導を受けたいが値段で躊躇してしまっている方
+* 近くに通えるジムがない方
+* 自分のトレーニングのノウハウを教えたい方
+* 他の人のトレーニングを受けてみたいトレーニング経験者
 
-* How to run the test suite
+### 主な利用シーン
+* トレーニング指導・栄養指導を受けてみたいとき
+* トレーニング指導・栄養指導のノウハウを教えたいとき
 
-* Services (job queues, cache servers, search engines, etc.)
+## 設計書
 
-* Deployment instructions
 
-* ...
+## チャレンジ要素一覧
+<https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgzVmY/edit#gid=0>
+
+## 開発環境
+- OS：windows11
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails,Tailwind CSS
+- JSライブラリ：jQuery
+- IDE：Cloud9
+
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
