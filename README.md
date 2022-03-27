@@ -36,7 +36,7 @@
 
 ---
 ## ◆チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgzVmY/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1s4Fv0-yfrtxzgqMM6ljxvXQpqk4Mbzm2VHGCnN2Kf9g/edit?usp=sharing
 
 ---
 
@@ -50,5 +50,4 @@
 ---
 
 ## ◆使用素材
-- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
-- 使用しない場合は、使用素材の項目をREADMEから削除してください。
+canva https://www.canva.com/ja_jp/
